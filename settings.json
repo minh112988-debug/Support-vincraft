@@ -1,20 +1,20 @@
 {
-  "name": "AFK Bot",
+  "name": "Nhanvienhotro",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
-    "try-creative": false
+    "ip": "vincraft.play.hosting",
+    "port": 25944,
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 10000,
     "z": 0
   },
   "utils": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Tham gia nhóm chat Vincraft để biết thêm thông tin !",
+        "Rủ bạn chơi cùng cho vui nhé !",
+        "Chúc các bạn chơi vui vẻ"
       ]
     },
     "chat-log": true,
